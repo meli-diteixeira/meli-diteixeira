@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning java, Node.js, Python and GO
 - 💬 Ask me about DevOps
 - 📫 How to reach me: dihogo.teixeira@mercadolivre.com
-- 😄 Pronouns: ...
+- :rocket: Personal Github: https://github.com/dihogoteixeira
 - ⚡ Fun fact: Development
